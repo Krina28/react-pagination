@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Pagination from '../component/index';
+import Pagination from '../index';
 
 class Users extends Component {
     render() {

@@ -1,21 +1,21 @@
 {
   "name": "react-pagination",
   "version": "0.1.0",
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
+  "description": "ReactJS Pagination",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "reactjs",
+    "pagination",
+    "react-pagination",
+    "custom-pagination",
+    "bootstrap-pagination",
+    "paginate",
+    "table-pagination"
+  ],
+  "author": "Krina",
+  "license": "MIT",
+  "module": "index.js",
   "bin": {
     "react-pagination": "react-pagination"
   },
